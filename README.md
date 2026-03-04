@@ -22,3 +22,5 @@ http://localhost:1337/media/IMAGE_FILE_NAME.
 
 ## Video Demonstration
 
+![Demo](video-demo.gif)
+
