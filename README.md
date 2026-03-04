@@ -12,3 +12,4 @@ http://localhost:5001/upload
 Upload image at 
 
 then, view the image at
+http://localhost:1337/media/IMAGE_FILE_NAME.
