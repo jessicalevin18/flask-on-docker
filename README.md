@@ -10,11 +10,11 @@ This repository contains a Flask web application that’s fully containerized wi
 
 ## Build Instructions
 
-#### Build the image and run the container
+#### Build the image and start the containers:
 ```
 docker compose -f docker-compose.prod.yml up -d --build
 ```
-#### Intialize the database
+#### Initialize the database:
 ```
 docker compose -f docker-compose.prod.yml exec web python manage.py create_db
 ```
